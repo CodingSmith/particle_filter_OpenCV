@@ -4,7 +4,7 @@
 //
 // -----------------------------------------------------------------------
 //
-// Download from the internet, but forget the source, the above desceription was written by the author I believe.
+// Download from the internet, but forget the source, the above desceription was written by the author I believe. Let me know if you are or you know the true author.
 //
 #include <iostream>
 #include <vector>
